@@ -5,7 +5,7 @@ header('Content-Type: application/json');
 
 $response = [
     'message' => 'Hello from the server!',
-    'student' => 'Roden Acquioben',
+    'student' => 'lemron',
     'course' => 'IPT 2',
     'time' => date('Y-m-d H:i:s')
 ];
